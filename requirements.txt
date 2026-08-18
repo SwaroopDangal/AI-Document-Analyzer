@@ -1,0 +1,8 @@
+streamlit
+pymupdf
+gTTS
+deep-translator
+transformers
+torch
+huggingface-hub
+sentencepiece
